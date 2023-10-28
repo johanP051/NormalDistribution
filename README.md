@@ -21,3 +21,6 @@ _**Note**_: If you do not have git installed, then git clone will not work for y
 * Normal Distribution (NOT standarized)```python3 NormalDistribution.py```
 * Normal Distribution (Standarized)```python3 Standarized.py```
 
+**NOTE:** If you want, you can make a Jupyter notebook with the code to run better the code.
+https://jupyter.org/
+
