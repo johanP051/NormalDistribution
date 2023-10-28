@@ -8,7 +8,7 @@ Program made in Python3 that modelates the Gauss Bell and gives the probability 
 ### Para descargar el programa:
 * ```git clone https://github.com/johanP051/ProjectGym.git```
 
-_**Nota**_: If you do not have git installed, then git clone will not work for you, alternatively you can download the project zip
+_**Note**_: If you do not have git installed, then git clone will not work for you, alternatively you can download the project zip
 
 ![image](https://github.com/johanP051/NormalDistribution/assets/64292875/ae05d005-3aad-4a0d-86a8-17a4ada388dc)
 
